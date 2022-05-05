@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="enter link">
-    <img src="oiggle.png" alt="Logo" width="80" height="80">
+    <img src="oiggle.png" alt="Logo" width="100" height="80">
   </a>
 
   <h3 align="center">Oiggle</h3>
@@ -48,7 +48,7 @@
 The goal of this project is to use two Android mobile smartphones as walky-talky over a Bluetooth connection. Similar to a push-to-talk application, communication will take place between the devices. This means that while one device sends audio data, the other receives it, and vice versa. 
 Additionally, the user can retrieve their current position displayed on google map, accurate and instantly. 
 <br />
-Project Repository Link: 
+Project Repository Link: https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-likhita24
 <br/>
 
 
@@ -65,7 +65,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-likhita24
    ```
 2. Open the repository on Android Studio
 3. Build the project
