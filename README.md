@@ -88,7 +88,7 @@ To get a local copy up and running follow these simple steps.
 <br/>
 
 ## UI Design
-<img src="public/usage.png" alt="Logo" width="1000" height="580">
+<img src="UI Design Oiggle.png" alt="Logo" width="1000" height="580">
 
 
 
