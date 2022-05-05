@@ -13,6 +13,8 @@
   <p align="center">
    Using smartphones to create a walky-talky
     <br />
+      <a href="https://drive.google.com/file/d/1UbbESTUDBIKSlKIdC-gknk45sCTJp2mC/view?usp=sharing"><strong>View Demonstration»</strong></a>
+    <br />
   </p>
 </p>
 
@@ -79,13 +81,6 @@ To get a local copy up and running follow these simple steps.
 10. For location, click on the bottom right google map icon
 
 
-
-<!-- USAGE EXAMPLES -->
-## Demonstration
-<br/>
-    <a href="https://drive.google.com/file/d/1UbbESTUDBIKSlKIdC-gknk45sCTJp2mC/view?usp=sharing"><strong>View Demonstration»</strong></a>
-<br/>
-<br/>
 
 ## UI Design
 <img src="UI Design Oiggle.png" alt="Logo" width="1000" height="580">
