@@ -47,12 +47,9 @@
 <br/>
 The goal of this project is to use two Android mobile smartphones as walky-talky over a Bluetooth connection. Similar to a push-to-talk application, communication will take place between the devices. This means that while one device sends audio data, the other receives it, and vice versa. 
 Additionally, the user can retrieve their current position displayed on google map, accurate and instantly. 
-
+<br />
 Project Repository Link: 
 <br/>
-<br/>
-<img src="public/homepage.png" alt="Logo" width="1000" height="580">
-
 
 
 <!-- GETTING STARTED -->
@@ -82,7 +79,7 @@ To get a local copy up and running follow these simple steps.
 
 
 
-## UI Design
+## UI Design (Wireframe)
 <img src="UI Design Oiggle.png" alt="Logo" width="1000" height="580">
 
 
