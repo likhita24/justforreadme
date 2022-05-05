@@ -1,5 +1,5 @@
 # Mobile and Pervasive Computing CSL 7460
-## Course Instructor: Dr. Suchetana Chakraborty, Assistant Professor, Department of Computer Science & Engineering @ Indian Institute of Technology, Jodhpur
+## Course Instructor: Dr. Suchetana Chakraborty (Assistant Professor, Department of Computer Science & Engineering @ Indian Institute of Technology, Jodhpur)
 
 <!-- PROJECT LOGO -->
 <br />
