@@ -34,7 +34,7 @@
         <li><a href="#installation-and-usage">Installation and Usage</a></li>
       </ul>
     </li>
-    <li><a href="#usage">UI Design</a></li>
+    <li><a href="#ui-design-wireframe">UI Design</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
