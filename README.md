@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="enter link">
-    <img src="public/logo.png" alt="Logo" width="80" height="80">
+    <img src="oiggle.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Oiggle</h3>
@@ -43,6 +43,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <br/>
+The goal of this project is to use two Android mobile smartphones as walky-talky over a Bluetooth connection. Similar to a push-to-talk application, communication will take place between the devices. This means that while one device sends audio data, the other receives it, and vice versa. 
+Additionally, the user can retrieve their current position displayed on google map, accurate and instantly. 
+
 Project Repository Link: 
 <br/>
 <br/>
