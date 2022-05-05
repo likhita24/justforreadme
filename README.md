@@ -83,7 +83,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Demonstration
 <br/>
-    <a href="https://cude-editor.web.app/"><strong>View Live »</strong></a>
+    <a href="https://drive.google.com/file/d/1UbbESTUDBIKSlKIdC-gknk45sCTJp2mC/view?usp=sharing"><strong>View Demonstration»</strong></a>
 <br/>
 <br/>
 
